@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Eshan Iqbal
+<h1 align="center">Hi 👋, I'm Eshan Iqbal</h1>
 
-**Backend Developer | AI/ML Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;AI%2FML+Enthusiast;Building+RAG+Systems;Loves+Scalable+Architecture" />
+</p>
 
 ---
 
@@ -29,7 +31,7 @@ I enjoy working on scalable architectures and integrating machine learning into 
 **AI / ML**
 
 * PyTorch
-* LLMs, YOLO, basic model integration
+* LLMs, YOLO, model integration
 
 **Tools & DevOps**
 
@@ -41,8 +43,8 @@ I enjoy working on scalable architectures and integrating machine learning into 
 
 * Developed backend systems using Node.js and Flask
 * Built scalable REST APIs and microservices
-* Worked with MySQL and MongoDB for data-driven applications
-* Integrated AI models into projects for practical use cases
+* Worked with MySQL and MongoDB
+* Integrated AI models into real-world applications
 
 ---
 
@@ -56,7 +58,9 @@ I enjoy working on scalable architectures and integrating machine learning into 
 
 ## 📊 GitHub Stats
 
-![Eshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eshaniqbal\&show_icons=true\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshaniqbal&show_icons=true&hide_border=true" />
+</p>
 
 ---
 
@@ -65,6 +69,14 @@ I enjoy working on scalable architectures and integrating machine learning into 
 * Advanced RAG pipelines
 * LLM optimization and deployment
 * System design for large-scale applications
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eshaniqbal/Eshaniqbal/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
